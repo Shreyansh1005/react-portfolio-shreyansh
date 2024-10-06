@@ -41,7 +41,7 @@ const Hero = () =>{
                             <motion.img initial={{x: 100, opacity: 0}}
                             animate = {{x:0,opacity:1}}
                             transition={{duration:1,delay:1.2}}
-                            className="rounded-2xl w-full h-auto max-h-100 object-cover" src={profilePic} alt="Profile Pic" />
+                            className="rounded-2xl w-full h-auto max-h-80 object-cover" src={profilePic} alt="Profile Pic" />
                         </div>
                 </div>
             </div>
