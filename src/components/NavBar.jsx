@@ -11,9 +11,30 @@ div className="flex flex-shrink-0 items-center">
                 <img className = "mx-2 w-10" src={KevinRushlogo} alt="logo"/>
             </div> */}
             <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-                <FaLinkedinIn/>
-                <FaGithub />
-                <FaInstagram />
+            <a 
+                    href="https://www.linkedin.com/in/shreyansh-dubey-4647222a7/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    aria-label="LinkedIn"
+                >
+                    <FaLinkedinIn />
+                </a>
+                <a 
+                    href="https://github.com/Shreyansh1005" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    aria-label="GitHub"
+                >
+                    <FaGithub />
+                </a>
+                <a 
+                    href="https://www.instagram.com/shreu_shreyansh/" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    aria-label="Instagram"
+                >
+                    <FaInstagram />
+                </a>
             </div>
         </nav>
     )

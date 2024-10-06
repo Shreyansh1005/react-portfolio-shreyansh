@@ -4,7 +4,8 @@ import project2 from "../assets/projects/portfolio_project2.jpeg";
 import project3 from "../assets/projects/portfolio_project4.jpeg";
 import project4 from "../assets/projects/portfolio_project3.jpeg";
 
-export const HERO_CONTENT = `Specializing in full-stack development, I create responsive, efficient, and scalable web applications that not only look great but perform seamlessly. From intuitive front-end designs to robust back-end functionality, I build with a user-first approach, ensuring smooth experiences across all devices. Let’s collaborate to transform your ideas into innovative web solutions.`;
+export const HERO_CONTENT = "Welcome to my portfolio! I'm Shreyansh Dubey, a passionate Full Stack Developer with a knack for creating innovative web applications. With a good foundation in both front-end and back-end technologies, I thrive on turning complex problems into simple, user-friendly solutions. My journey in web development has equipped me with skills in frameworks like React, Node.js, and Express, as well as expertise in database management with MongoDB. I believe in the power of collaboration and am always eager to learn from others, pushing the boundaries of what's possible in technology. Whether it's developing a responsive user interface or architecting a robust server-side application, I'm dedicated to delivering high-quality work that meets the needs of users and businesses alike. Let's embark on this digital journey together!";
+
 
 export const ABOUT_TEXT = `I am a web developer with a passion for creating cutting-edge applications that blend functionality with an intuitive user experience. Currently pursuing my B.Tech in Computer Science at JSS Academy of Technical Education, Noida, I have honed my skills in both front-end and back-end development. My experience ranges from building result management systems and certification platforms to developing school transport systems, all with a focus on scalability and performance.
 Driven by curiosity and a love for problem-solving, I enjoy diving into new technologies and leveraging them to create meaningful solutions. With strong soft skills and a dedication to continuous learning, I thrive in collaborative environments where innovation meets practical application.`;
@@ -66,7 +67,7 @@ export const PROJECTS = [
     title: "Portfolio Website",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "My portfolio website serves as a digital showcase of my skills, projects, and experiences as a Full Stack Developer. Designed with a modern aesthetic and user-friendly interface, this site allows visitors to navigate seamlessly through my work and connect with me easily. It features a dynamic hero section that introduces who I am, along with detailed project showcases highlighting the technologies used and the challenges overcome in each project.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
