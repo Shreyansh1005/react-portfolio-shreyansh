@@ -1,3 +1,4 @@
+
 import project1 from "../assets/projects/portfolio_project1.jpeg";
 import project2 from "../assets/projects/portfolio_project2.jpeg";
 import project3 from "../assets/projects/portfolio_project4.jpeg";
@@ -7,6 +8,9 @@ export const HERO_CONTENT = `Specializing in full-stack development, I create re
 
 export const ABOUT_TEXT = `I am a web developer with a passion for creating cutting-edge applications that blend functionality with an intuitive user experience. Currently pursuing my B.Tech in Computer Science at JSS Academy of Technical Education, Noida, I have honed my skills in both front-end and back-end development. My experience ranges from building result management systems and certification platforms to developing school transport systems, all with a focus on scalability and performance.
 Driven by curiosity and a love for problem-solving, I enjoy diving into new technologies and leveraging them to create meaningful solutions. With strong soft skills and a dedication to continuous learning, I thrive in collaborative environments where innovation meets practical application.`;
+
+
+
 
 export const EXPERIENCES = [
   {
